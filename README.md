@@ -2,7 +2,7 @@
 analyzer
 基于ik analyzer可以实时加载扩展词典的ikanalyzer
 
-//demo:
+//demo:<p>
         	StringReader input = new StringReader("需要分词的字符串");
 		// 自定义配置文件，可以实时修改扩展词典
 		MyConfiguration mycfg = new MyConfiguration(); <p>
